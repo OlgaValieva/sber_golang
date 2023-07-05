@@ -6,3 +6,6 @@
 
 ![6005c2a3-15d7-0567-85d3-9a4371ef9f4b](https://github.com/OlgaValieva/sber_golang/assets/89796242/5c33f10f-9a42-4800-ac19-f18a42affdd5)
 
+
+(для запуска использовала Postman, pgAdmin, Postgres, Docker ...золотые руки и удача)
+
